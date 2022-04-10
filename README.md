@@ -1,1 +1,1 @@
-# Talleradealgoritmosyprogramacion
+# Talleres_de_algoritmos_y_programacion
